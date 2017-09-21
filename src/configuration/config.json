@@ -1,0 +1,8 @@
+{
+    "sourceFolder" : "source",
+    "targetFolder" : "/home/abc",
+    "username" : "root",
+    "host" : "127.0.0.1",
+    "password" : "abc",
+    "fileType" : "csv"
+}
